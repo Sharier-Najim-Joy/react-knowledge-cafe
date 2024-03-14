@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/VSFVX2x/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "The Mystery of the Missing Diamond",
+      "author": "Jessica Smith",
+      "author_img": "https://i.ibb.co/y69VN0T/front-view-young-beautiful-lady-white-t-shirt-black-jeans-coat-holding-green-book-white.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 5,
+      "hashtags": ["mystery", "adventure", "detective"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/VSFVX2x/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "The Secret Garden",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/y69VN0T/front-view-young-beautiful-lady-white-t-shirt-black-jeans-coat-holding-green-book-white.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 6,
+      "hashtags": ["fiction", "fantasy", "nature"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/VSFVX2x/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "Cooking Adventures",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/y69VN0T/front-view-young-beautiful-lady-white-t-shirt-black-jeans-coat-holding-green-book-white.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 7,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/VSFVX2x/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "Exploring the Universe",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/y69VN0T/front-view-young-beautiful-lady-white-t-shirt-black-jeans-coat-holding-green-book-white.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 8,
+      "hashtags": ["science", "space", "cosmos"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/VSFVX2x/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "Art of Photography",
+      "author": "Sophia Lee",
+      "author_img": "https://i.ibb.co/y69VN0T/front-view-young-beautiful-lady-white-t-shirt-black-jeans-coat-holding-green-book-white.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 9,
+      "hashtags": ["photography", "art", "creativity"]
+    }
+  ]
+  
